@@ -26,7 +26,7 @@ require "data/database.php";
  		<table class="table">
             <thead>
                 <tr>
-                    <th>Nombre</th>
+                    <th>ID</th>
                     <th>Tipo Cliente</th>
                     <th>Tipo Doc.</th>
                     <th>N° Documento</th>
@@ -41,10 +41,10 @@ require "data/database.php";
         
 </div>
 </div>
-<script type="text/javascript" src="js/clientes.js"></script>
+
  <!-- Sweetalert -->
 <script src="https://unpkg.com/sweetalert/dist/sweetalert.min.js"></script>
-<!-- Botones -->
-
+<!-- Listado de clientes -->
+<script type="text/javascript" src="js/clientes.js"></script>
 </body>
 </html>

@@ -1,0 +1,32 @@
+*{
+    padding: 0;
+    margin: 0;
+    box-sizing: border-box;
+    color: white;
+    font-family: sans-serif;
+}
+.wrapLogin {
+    width: 100%;
+    min-height: 100vh;
+    
+    display: flex;
+    align-items: center;
+    position: relative;
+    /*background-repeat: no-repeat;*/
+    background-image: url("https://www.blogdelfotografo.com/wp-content/uploads/2021/12/Fondo_Negro_9.png");
+    background-size: cover;
+   /* filter: brightness(50%); bajar brillo :v*/
+
+}
+.diego{
+	margin-bottom: 30px;
+}
+th{
+text-align: center;
+color: yellow;
+}
+td{
+text-align: center;
+
+}
+
